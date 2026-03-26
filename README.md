@@ -9,8 +9,8 @@ This project analyzes the performance of six videos from a personal Bilibili cha
 ## 2. Background and Motivation
 I am a statistics student and a Bilibili content creator. Through this project, I aim to:
 - Understand performance differences across various video types
-- Identify key factors influencing view counts and engagement rates
-- Apply statistical methods to real-world data as part of my portfolio
+- Evaluate the correlation between views and other variables
+- Apply statistical methods to real-world data to gain practical experience
 
 ## 3. Data Source
 - Data exported from the Bilibili Creator Dashboard
